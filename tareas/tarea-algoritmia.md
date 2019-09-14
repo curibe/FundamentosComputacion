@@ -16,7 +16,7 @@ Deben subir a classroom un unico archivo \(notebook de Google colab\) con cada u
 
 #### Problema 1
 
-Dado dos valores M y N , con M&gt;N, determinar $$M$$es multiplo de $$N$$
+Dado dos valores M y N , con M&gt;N, determinar $$M$$ es multiplo de $$N$$
 
 #### Problema 2
 
