@@ -25,7 +25,7 @@
 
 ## Actividades
 
-* [Ejercicios Algoritmia](actividades/untitled.md)
+* [Ejercicios Algoritmia](actividades/ejercicios-algoritmia.md)
 
 ## Tareas
 
