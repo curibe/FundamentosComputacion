@@ -182,7 +182,7 @@ print( exp(1) )
 
 En este caso sólo se podrá usar las funciones sqrt y exp. Si se intentara usar otra funcion, se generaría error:
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 Para el caso de librerias y sublibrerias, se puede importar algunas funciones de las sublibrerias:
 

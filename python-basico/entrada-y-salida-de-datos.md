@@ -10,7 +10,7 @@ En este caso veremos como obtener una salida de datos a través del monitor con 
 
 El comando `print` es una función que recibe como argumento el mensaje o información que se quiera mostrar en pantalla:
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 Por ejemplo, para mostrar un mensaje 
 

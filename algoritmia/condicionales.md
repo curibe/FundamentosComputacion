@@ -226,7 +226,7 @@ Ejecutando el programa con valores que dan raíces reales,se obtiene:
 
 Y para el caso de raices complejas:
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 Para ver en mas detalle el proceso interno en el algoritmo, se muestra la siguiente animación:
 

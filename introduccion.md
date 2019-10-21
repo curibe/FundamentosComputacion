@@ -8,11 +8,11 @@ La instalación de python y sus respectivas librerías depende del sistema opera
 
 Para usar python en windows, la forma mas común es instalando una distribución de python y R usada en computación científica, conocida como [anaconda](https://www.anaconda.com/). Esta herramienta no solo instala python sino muchas de sus librerias usada para calculo científico, computación científica, análisis de datos e inteligencia artifical. A través de ella se gestiona todas estas herramientas de trabajo asi como la instalación de otras librerias. 
 
-![](.gitbook/assets/image%20%2841%29.png)
+![](.gitbook/assets/image%20%2842%29.png)
 
 También cabe mencionar que esta herramienta trae el IDE \(Integrated development enviroment\) [spyder](https://www.spyder-ide.org/) que permite llevar a cabo cualquier desarrollo en python con las herramientas integradas que trae. 
 
-![spyder IDE](.gitbook/assets/image%20%2843%29.png)
+![spyder IDE](.gitbook/assets/image%20%2844%29.png)
 
 ### 1.2 Instalación en Linux
 
@@ -34,7 +34,7 @@ Jupyter es una aplicación que se puede instalar en su computador \(viene por de
 
 {% tabs %}
 {% tab title="Main Page" %}
-![](.gitbook/assets/image%20%2847%29.png)
+![](.gitbook/assets/image%20%2848%29.png)
 {% endtab %}
 
 {% tab title="Try in your browser" %}

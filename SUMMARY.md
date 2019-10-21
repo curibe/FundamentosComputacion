@@ -26,8 +26,10 @@
 ## Actividades
 
 * [Ejercicios Algoritmia](actividades/ejercicios-algoritmia.md)
+* [Ejercicios python](actividades/ejercicios-python.md)
 
 ## Tareas
 
 * [Tarea Algoritmia](tareas/tarea-algoritmia.md)
+* [Tarea 2 - Python](tareas/tarea-2-python.md)
 
