@@ -37,7 +37,7 @@ $$
 \dfrac{df(x)}{dx} = \lim_{h \to 0} \dfrac{f(x+h)-f(x)}{h}
 $$
 
-la cual puede ser interpretada geométricamente como la pendiente de la recta tangente a la curva $$f(x) $$ en el punto $$x$$ . Esta interpretación y la anterior expresión ayuda a determinar la derivada de una función en un punto $$a = b$$ de forma numérica usando el computador. Escribir un algoritmo que calcule la derivada de la función $$f(x) = x^3\sin(x)\log(x)$$ en el punto $$ x=2 $$ y verifique que debe darle algo aproximadamente a: 8.892905028026.
+la cual puede ser interpretada geométricamente como la pendiente de la recta tangente a la curva $$f(x) $$ en el punto $$x$$ . Esta interpretación y la anterior expresión ayuda a determinar la derivada de una función en un punto $$a = b$$ de forma numérica usando el computador. Escribir un algoritmo que calcule la derivada de un funcion `f(x)` cualquiera, que puede/debe ser definida como otra rutina. Probar con la función $$f(x) = x^3\sin(x)\log(x)$$ en el punto $$ x=2 $$ y verifique que debe darle algo aproximadamente a: 8.892905028026.
 
 ### Problema 5
 
