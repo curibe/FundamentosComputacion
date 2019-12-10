@@ -50,29 +50,24 @@ A medida que se profundice en la sintaxis de python, se notará que la mayoria d
 
 En python, para escribir un condicional se hace de la siguiente forma:
 
-{% code-tabs %}
-{% code-tabs-item title="IF" %}
+{% code title="IF" %}
 ```python
 if condicion:
     sentencia
 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
-{% code-tabs %}
-{% code-tabs-item title="IF-ELSE" %}
+{% code title="IF-ELSE" %}
 ```python
 if condicion:
     sentencias 1
 else:
     sentencias 2
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
-{% code-tabs %}
-{% code-tabs-item title="IF-ELIF-ELSE" %}
+{% code title="IF-ELIF-ELSE" %}
 ```python
 if condicion 1:
     sentencias 1
@@ -94,8 +89,7 @@ else:
     sentencias    
 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 Para establecer las condiciones es necesario hacer uso de los operadores relacionales:
 
@@ -201,8 +195,7 @@ Salidas:
 
 **5\) Programa en python**
 
-{% code-tabs %}
-{% code-tabs-item title="cuadratrica.py" %}
+{% code title="cuadratrica.py" %}
 ```python
 print("Ingrese valores de a,b,c:")
 a = float( input("a: ") )
@@ -217,8 +210,7 @@ if disc >= 0:
 else:
   print("Las raices son complejas")
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 Ejecutando el programa con valores que dan raíces reales,se obtiene:
 

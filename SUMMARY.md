@@ -33,3 +33,7 @@
 * [Tarea Algoritmia](tareas/tarea-algoritmia.md)
 * [Tarea 2 - Python](tareas/tarea-2-python.md)
 
+## Enunciado Examenes
+
+* [EJERCICIO EXAMEN 3](enunciado-examenes/ejercicio-examen-3.md)
+

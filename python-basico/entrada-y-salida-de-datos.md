@@ -22,8 +22,7 @@ Hay dos formas básicas usadas en python para mostrar un mensaje en pantalla:
 
 ![](../.gitbook/assets/image%20%2829%29.png)
 
-{% code-tabs %}
-{% code-tabs-item title="Forma básica 1" %}
+{% code title="Forma básica 1" %}
 ```python
 #*****************************
 # USO DEL COMANDO PRINT
@@ -33,8 +32,7 @@ Hay dos formas básicas usadas en python para mostrar un mensaje en pantalla:
 #------------------------
 print("Hola a todos!!")
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ![](../.gitbook/assets/image%20%2833%29.png)
 
