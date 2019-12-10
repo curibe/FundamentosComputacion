@@ -79,7 +79,7 @@ Note que las palabras en negrilla denota a las _palabras reservadas_ o _comandos
 
 También es importante aclarar que en la mayoría de los lenguajes de programación, el símbolo "**=**" es el operador de asignación y no el "igual" matemático. Note que en seudocódigo en PSeInt, el operador de asignación es $$``\leftarrow"$$
 
-![Asignaci&#xF3;n de variables en programaci&#xF3;n. Siempre va de derecha a izquierda](../.gitbook/assets/image%20%2850%29.png)
+![Asignaci&#xF3;n de variables en programaci&#xF3;n. Siempre va de derecha a izquierda](../.gitbook/assets/image%20%2851%29.png)
 
 #### **Y la prueba de escritorio??**
 

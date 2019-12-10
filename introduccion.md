@@ -34,7 +34,7 @@ Jupyter es una aplicación que se puede instalar en su computador \(viene por de
 
 {% tabs %}
 {% tab title="Main Page" %}
-![](.gitbook/assets/image%20%2848%29.png)
+![](.gitbook/assets/image%20%2849%29.png)
 {% endtab %}
 
 {% tab title="Try in your browser" %}
