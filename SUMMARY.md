@@ -36,4 +36,5 @@
 ## Enunciado Examenes
 
 * [EJERCICIO EXAMEN 3](enunciado-examenes/ejercicio-examen-3.md)
+* [PROYECTO FINAL - V2](enunciado-examenes/ejercicio-examen-3-v2.md)
 

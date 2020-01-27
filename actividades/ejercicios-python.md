@@ -15,7 +15,7 @@ Se proponen algunos problemas para resolver y se debe escribir su respectivo pro
   
 
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 **4\)**  Diseñe un programa que pida la entrada de un entero y que compruebe la conjetura de Goldbach: cada entero positivo mayor que dos puede escribirse como la suma de dos primos. **Sugerencia**: implemente el algortimo de numeros primos como una función.
 

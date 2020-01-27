@@ -39,7 +39,7 @@ Note que en este caso, para poder usar una función matemática es necesario col
 
 Note que si se intenta llamar a la función por su nombre propio, se genera un error:
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 Algunas veces estas librerias no solo contienen funciones o constantes sino también sublibrerias que pueden contener funciones, constantes y otra sublibreria, es decir, una subsublibreria de la libreria principal. En ese caso, la forma de importarlo seria la siguiente:
 
@@ -182,7 +182,7 @@ print( exp(1) )
 
 En este caso sólo se podrá usar las funciones sqrt y exp. Si se intentara usar otra funcion, se generaría error:
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2858%29.png)
 
 Para el caso de librerias y sublibrerias, se puede importar algunas funciones de las sublibrerias:
 

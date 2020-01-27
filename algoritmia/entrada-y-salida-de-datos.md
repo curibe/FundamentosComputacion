@@ -54,7 +54,7 @@ Este paso en realidad se puede hacer directamente en el diagrama de flujo o seud
 
 #### **4\) Diagrama de Flujo**
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 #### **5\) Seudocódigo**
 
@@ -79,7 +79,7 @@ Note que las palabras en negrilla denota a las _palabras reservadas_ o _comandos
 
 También es importante aclarar que en la mayoría de los lenguajes de programación, el símbolo "**=**" es el operador de asignación y no el "igual" matemático. Note que en seudocódigo en PSeInt, el operador de asignación es $$``\leftarrow"$$
 
-![Asignaci&#xF3;n de variables en programaci&#xF3;n. Siempre va de derecha a izquierda](../.gitbook/assets/image%20%2851%29.png)
+![Asignaci&#xF3;n de variables en programaci&#xF3;n. Siempre va de derecha a izquierda](../.gitbook/assets/image%20%2862%29.png)
 
 #### **Y la prueba de escritorio??**
 
@@ -109,7 +109,7 @@ Para mostrar datos de salida en el seudocódigo y PSeInt se usaron las palabras 
 
 Para el caso de python, el comando usado para mostrar mensajes en pantalla es el comando **`print`**. Este comando es una función \(mas adelante se explicará que significa esto\) que recibe varios argumentos, los cuales son los que quiere que se muestre en pantalla:
 
-![Comando print de python](../.gitbook/assets/image%20%2841%29.png)
+![Comando print de python](../.gitbook/assets/image%20%2849%29.png)
 
 donde _arg_ puede ser una tira de caracteres\(string\) o variables. Aunque el comando tiene ciertas versatilidades, en esta unidad se le va a dar un uso básico, el cual va a ser muy similar a como se hace en el seudocódigo o con PSeInt. Por ejemplo:
 
@@ -166,11 +166,11 @@ Si lo que se quiere es ingresar un número, y que dicho dato se lea como número
 * Para convertir de `string/int` a real\(punto flotante en el pc\), se usa el comando **float\(\)**
 * Para convertir de `int/float` a string\(tira de caracteres\), se usa el comando **str\(\)**
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 Por tanto, para convertir un dato capturado por `input` a un número, se usa `float` o `int`
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 {% hint style="info" %}
 Es necesario aclarar que cuando se tienen datos tipo _string,_ no se pueden hacer operaciones aritméticas con dichos datos. Por esta razón es necesario hacer casting de los datos
@@ -231,13 +231,13 @@ Note la similitud entre el seudocódigo y el código en python. Esta es una de l
 
 Una vez instalado anaconda en Windows, se ejecuta y se obtiene la siguiente ventana:
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 Se tienen 3 opciones para ejecutar un programa de python: JupiterLab, Jupyter Notebook y Spyder, las cuales instalan con Anaconda. También se puede hacer uso de VS Code, pero esta no viene instalada por defecto con anaconda, aunque VS Code es un editor muy popular usado por programadores.
 
 Tenga en cuenta que los archivos creados con JupyterLab y Jupyter Notebook son _notebooks de python_ con extension `ipynb` mientras que Spyder es un IDE en donde se crean archivos o scripts de python \(extension `.py`\) y se pueden ejecutar en el mismo entorno. Ejecutar el programa en JupyterLab o Jupyter Notebook es igual a como se haría en Google Colaboratory:
 
-![JupyterLab](../.gitbook/assets/image%20%2838%29.png)
+![JupyterLab](../.gitbook/assets/image%20%2846%29.png)
 
-![Jupyter Notebook](../.gitbook/assets/image%20%2826%29.png)
+![Jupyter Notebook](../.gitbook/assets/image%20%2831%29.png)
 

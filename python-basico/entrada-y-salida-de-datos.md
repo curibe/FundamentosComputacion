@@ -10,7 +10,7 @@ En este caso veremos como obtener una salida de datos a través del monitor con 
 
 El comando `print` es una función que recibe como argumento el mensaje o información que se quiera mostrar en pantalla:
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 Por ejemplo, para mostrar un mensaje 
 
@@ -20,7 +20,7 @@ Hay distintas formas de mostrar un mensaje en pantalla con el comando print en p
 
 Hay dos formas básicas usadas en python para mostrar un mensaje en pantalla:
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 {% code title="Forma básica 1" %}
 ```python
@@ -34,7 +34,7 @@ print("Hola a todos!!")
 ```
 {% endcode %}
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 ```python
 # 1) Uso basico con varios argumentos

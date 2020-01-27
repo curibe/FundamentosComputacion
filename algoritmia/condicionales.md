@@ -22,25 +22,25 @@ La forma de escribir un condicional en forma de seudocódigo \(y en un programa\
 
 Se usa la estructura **SI-HAGA**  que consta de una condición y una sentencia. Dicha sentencia se ejecuta si la condición es verdadera; en caso contrario, el algoritmo prosigue con las sentencias que esten por debajo del concional.
 
-![Estructura SI-HAGA. Las lineas punteadas ilustran la tabulaci&#xF3;n que existe en la sentencia. Cuando se use la estructura no se dibujan](../.gitbook/assets/image%20%2818%29.png)
+![Estructura SI-HAGA. Las lineas punteadas ilustran la tabulaci&#xF3;n que existe en la sentencia. Cuando se use la estructura no se dibujan](../.gitbook/assets/image%20%2822%29.png)
 
 ### SI - SINO
 
 Esta estructura consta de una condición y dos sentencias: la primera sentencia se ejecuta si la condicion es verdadera, y la segunda en caso de que la condición sea falsa.
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2837%29.png)
 
 ### SI - SINO SI - SINO
 
 Esta estructura es muy útil cuando lo que se quiere evaluar es un conjunto de condiciones. Si la condición 1 no se cumple, se evalúa la condición 2; en caso de que la condición 2 sea verdadera, se ejecuta la sentencia 2 y se termina la estructura. Es importante resaltar que en esta estructura se evalúan las condiciones hasta que se encuentra una que cumpla, esto es, si se tienen $$N$$ condiciones y se cumple la condición $$i$$ \(con  $$i < N$$\) , no se sigue evaluando las siguientes $$N-i$$ condiciones restantes. En caso de que ninguna condici**ó**n se cumpla, se ejecuta la sentencia que está en el **sino.**
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ### Condicionales anidados
 
 Cuando se tiene un condicional y la condición es verdadera, se ejecuta su sentencia asociada. Esta sentencia en realidad es un bloque de algoritmo que puede contener todo lo que se pueda escribir en un algoritmo. En el caso particular en el que dentro de la sentencia de un condicional hay otro condicional, se le conoce como condicionales anidados
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 En la ilustración se muestra un ejemplo de condicionales anidados, pero no significa que sea la única forma. Se entiende por anidado cuando una estructura esta contenida dentro de otra.
 
@@ -189,7 +189,7 @@ Salidas:
 {% endtab %}
 
 {% tab title="PSeInt" %}
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -214,11 +214,11 @@ else:
 
 Ejecutando el programa con valores que dan raíces reales,se obtiene:
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 Y para el caso de raices complejas:
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 Para ver en mas detalle el proceso interno en el algoritmo, se muestra la siguiente animación:
 

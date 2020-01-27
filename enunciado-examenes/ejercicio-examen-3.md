@@ -65,7 +65,7 @@ Basado en los datos anteriores, hacer lo siguiente:
 
 Debe guardar los datos anteriores en un archivo de texto \(o descargarlo directamente del link "tabla de datos" dejado arriba\).  Para cargar los datos, debe hacer uso de la librería numpy \(consultar que función debe usar\). Si hace uso de google colab, debe seguir las siguientes recomendaciones para poder usar el archivo de texto:
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2859%29.png)
 
 Una vez tenga el archivo de texto cargado en el colab, debe leerlo haciendo uso de numpy
 
